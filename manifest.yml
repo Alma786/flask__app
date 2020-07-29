@@ -2,8 +2,8 @@
 ---
 applications:
 - name: reviewscrapper
-  memory: 1.5GB
-  disk_quota: 1.5GB
+  memory: 0.5GB
+  disk_quota: 0.2GB
   random-route: true
   parameters:
     memory: 0.1GB
